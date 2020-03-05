@@ -24,7 +24,6 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -89,7 +88,6 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -125,6 +123,6 @@
   },
   "defaultProject": "campus-owl",
   "cli": {
-    "analytics": "8f1e7a63-acdb-4d9b-9602-e2d0eb74bfb2"
+    "analytics": "4579fcf4-6485-4a77-be8c-e0e98fe70f87"
   }
 }
