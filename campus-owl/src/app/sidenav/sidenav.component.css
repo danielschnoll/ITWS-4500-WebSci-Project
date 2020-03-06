@@ -1,8 +1,8 @@
 .sidenav{
     top: 60px;
-    background-color: rgb(231, 231, 231);
-    width: 250px;
+    background-color: rgb(245, 245, 245);
 }
+
 header, main, footer {
     padding-left: 300px;
 }
