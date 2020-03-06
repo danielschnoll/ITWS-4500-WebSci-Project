@@ -14,7 +14,7 @@ import { MaterialModule } from './material.module';
 	declarations: [
 		AppComponent,
 		NavbarComponent,
-		SidenavComponent
+		SidenavComponent	
 	],
 	imports: [
 		BrowserModule,
