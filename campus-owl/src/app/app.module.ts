@@ -8,13 +8,15 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { SidenavComponent } from './sidenav/sidenav.component';
 import { MaterialModule } from './material.module';
+import { MainComponent } from './main/main.component';
 
 
 @NgModule({
 	declarations: [
 		AppComponent,
 		NavbarComponent,
-		SidenavComponent
+		SidenavComponent,
+		MainComponent
 	],
 	imports: [
 		BrowserModule,
