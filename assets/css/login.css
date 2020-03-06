@@ -2,13 +2,18 @@ body,
 		html {
 			margin: 0;
 			padding: 0;
-			height: 100%;
-			background-image: url("/img/quad.jpg");
-		}
+        }
+        body
+        {
+            background-repeat: no-repeat;
+            background-image: url("https://news.rpi.edu/sites/default/files/styles/large/public/RPI_150.jpg?itok=-PdIuRXa");
+            background-attachment: fixed;
+            background-size: 100% 100%;
+        }
 		.user_card {
 			height: 400px;
 			width: 350px;
-			margin-top: auto;
+			margin-top: 200px;
 			margin-bottom: auto;
 			background: rgb(204, 198, 198);
 			position: relative;
@@ -33,7 +38,7 @@ body,
 			text-align: center;
 		}
 		.brand_logo {
-            font-size: 25pt;
+            font-size: 70pt;
 			height: 150px;
 			width: 150px;
 			border-radius: 50%;
