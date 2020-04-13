@@ -22,7 +22,7 @@ Setting up **Campus OWL** is very easy. Just download the files, open the reposi
 - [Yaseen Mahmoud](https://github.com/ymmahmoud)
 - [Daniel Schnoll](https://github.com/danielschnoll)
 - [Austin Borina](https://github.com/austinborina)
-- [Peter Gramenides](https://github.com/austinborina)
+- [Peter Gramenides](https://github.com/petergramenides)
 
 ### License
 
