@@ -15,11 +15,7 @@ Moderation of this app will fall upon campus community members. In some cases it
 
 ## Configuration
 
-Setting up **at-channel** is pretty easy, requiring a few things configured on Slack, and a few environment variables set on your server's side.
-
-### Environment variables
-
-Using what you just set up on Slack, you now need to set up the server's environment variables. At this point, you should've cloned this repo to your server and run `npm i` to get all the packages squared away. Next, copy or rename the `.env.example` file to `.env`, and open it up. Fill out the fields accordingly (you will need a bunch of the information from Slack's app portal). When that's done, running `nodemon server.js` or running the server in whatever other way you choose should work!
+Setting up **Campus OWL** is very easy. Just download the files, open the repository in a bash terminal, and do ```ng serve```
 
 ## Credits
 
@@ -32,7 +28,7 @@ Using what you just set up on Slack, you now need to set up the server's environ
 
 ### License
 
-**at-channel** is provided under the [MIT License](https://opensource.org/licenses/MIT).
+**Campus OWL** is provided under the [MIT License](https://opensource.org/licenses/MIT).
 
 ### Contact
 
