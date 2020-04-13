@@ -1,5 +1,3 @@
-[![Build Status](https://cloud.drone.io/api/badges/rpiambulance/at-channel/status.svg)](https://cloud.drone.io/rpiambulance/at-channel)
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 # Campus OWL
